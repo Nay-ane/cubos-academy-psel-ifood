@@ -7,4 +7,3 @@ function solucao(idade) {
     
 }
 
-solucao(25)
